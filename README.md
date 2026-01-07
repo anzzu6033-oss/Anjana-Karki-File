@@ -1,2 +1,3 @@
 # Anjana-Karki-File
-This is my first Github repository.
+This is my first Git repository.
+Auther - Anjana Karki 
